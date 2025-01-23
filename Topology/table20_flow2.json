@@ -1,0 +1,14 @@
+{
+    "dpid": 1,
+    "table_id": 20,
+    "idle_timeout": 0,
+    "hard_timeout": 0,
+    "priority": 100,
+    "match":{
+        "eth_type": 2048,
+        "ipv4_src": "10.0.0.2",
+        "ip_proto": 6
+    },
+    "actions":[
+    ]
+}
